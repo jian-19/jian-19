@@ -18,4 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jian-19&icon=5&color=4)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/jian-19/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/jian-19/jian-19/blob/output/github-contribution-grid-snake.gif)
