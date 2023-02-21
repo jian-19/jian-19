@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente trabalho como técnico em informática ou (HelpDesk).<br>🌱 Atualmente estou aprendendo as seguintes linguagens de programação "HTML/CSS/JAVASCRIPT/PYTHON".
+🔭 Atualmente trabalho como técnico em informática ou HelpDesk.<br>🌱 Atualmente estou aprendendo as seguintes linguagens de programação "HTML/CSS/JAVASCRIPT/PYTHON".
 
 
 ## 🌐 Socials:
